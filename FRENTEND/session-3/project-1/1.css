@@ -1,0 +1,26 @@
+.mainheading{
+    color:rgb(190, 97, 190);
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px rgb(46, 30, 9) ;
+    letter-spacing: 5px;
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+p{
+    line-height: 30px;
+    font-size: 20px;
+}
+ul{
+    font: size 30px;
+    list-style-position:inside;
+    text-align: center;
+    list-style:none ;
+    
+
+
+}

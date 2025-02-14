@@ -1,0 +1,32 @@
+h1{
+    /* color: rgb(rgb(30, 3, 14), rgb(11, 48, 11), rgb(196, 196, 216)); */
+color: var(--green);
+text-align: center;
+background-color: red;
+padding-left: 3px;
+border-color: black;
+border-radius: 50px;
+text-decoration: dotted;
+text-transform: capitalize;
+text-overflow: clip;
+text-shadow: 2px 5px 10px rgb(123, 177, 177);
+}
+:root{
+    --green:#627a2b;
+}
+ul{
+    color: rgb(14, 20, 20);
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+a:visited{
+    color: aquamarine;
+}
+a:hover{
+    font-weight: 100px;
+    text-decoration: dashed;
+}

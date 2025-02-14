@@ -1,0 +1,10 @@
+.s1{
+    text-align: center;
+    text-decoration:underline;
+    text-transform:uppercase;
+    text-shadow: 1px 3px 5px blue;
+    letter-spacing: 3px;
+    color:  #a0d0ac;
+    font-style: italic;
+    font-weight: 300px;
+}
